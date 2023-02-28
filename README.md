@@ -1,2 +1,3 @@
 # candlestick
 Draw a candlestick chart in Processing for any given asset or market
+This provides a start at automated trading...
